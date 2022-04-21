@@ -1,3 +1,6 @@
+Kevin Schuren, 
+K2VIIN 
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
